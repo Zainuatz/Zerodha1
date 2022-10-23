@@ -1,0 +1,112 @@
+.collapse{
+    margin-left: 28em;
+}
+.nav-link{
+    margin-left: 0.5em;
+}
+.body{
+    font-family: "Inter", serif;
+}
+.row{
+    color: #666;
+    font-size: 0.9rem;
+    font-weight:500;
+}
+.img-1{
+    padding-top: 5.7em;
+    text-align: center;
+}
+.invest{
+    text-align: center;
+    color: #424242;
+    
+}
+.h1{
+    font-weight: 500;
+    padding-top: 1.5em;
+    font-size: 2.95rem;
+    line-height: 1.25;
+}
+.h5{
+    font-weight: 400;
+}
+.btn{
+    width: 9em;
+    height: 2.5em;
+    background-color: #387ed1;
+    color: #fff;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    font-weight: 500;
+    font-size: 1.2em;
+    text-align: center;
+}
+.btn:hover{
+    background: black;
+}
+.h2{
+    font-size: 2rem;
+}
+.para{
+    font-size: 1.1rem;
+    line-height: 1.8;
+    margin-bottom: 15px;
+    font-weight: 400;
+}
+.list-items{
+    font-size: 1.1rem;
+    font-weight: 400;
+}
+.uni{
+    text-align: center;
+}
+.td{
+    text-align: center;
+    width: 50%;
+   
+}
+.table{
+    width: 90%;
+}
+.table td, .table th{
+    border-top: 0px solid #dee2e6;
+    border-color:darkgray;
+   
+    vertical-align: top;
+}
+.h4{
+    font-weight: 500;
+    color:#424242;
+}
+.open{
+    text-align: center;
+}
+.ico{
+    margin-left: 1.5em;
+    color: #666;
+}
+.ic{
+    margin-left:1em ;
+    color: #666;
+}
+.info{
+    margin-left: 5rem;
+}
+.body1{
+    text-decoration: none;
+    font-size: medium;
+    color: #666;
+    line-height: 1rem;
+}
+.para1{
+    font-size: 11px;
+    color: #9b9b9b;
+}
+.foot{
+    margin-left: 1.5rem;
+    font-size: 13px;
+    color: #9b9b9b;
+}
+.row1{
+    text-align: center;
+}
